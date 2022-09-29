@@ -55,3 +55,6 @@
 #js-licensing {
   display: none;
 }
+.e-appointment.e-lib.e-draggable {
+  width: 100% !important;
+}
